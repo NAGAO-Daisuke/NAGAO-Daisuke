@@ -1,12 +1,13 @@
-<!---
-- 👋 Hi, I’m @NAGAO-Daisuke
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Welcome to My GitHub Profile
 
-NAGAO-Daisuke/NAGAO-Daisuke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+I am Daisuke Nagao, a software developer living in Japan.
+
+## Connect
+
+If you know me personally, please reach out via email at Daisuke.Nagao@. You should know the domain that follows the @.
+
+Feel free to contact me through GitHub as well.
+
+Thank you for visiting my profile!
